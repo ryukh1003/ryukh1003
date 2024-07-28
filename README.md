@@ -9,7 +9,6 @@
 
 ### 🙇 안녕하세요, 류규환입니다!
 - `UI/UX 개선`을 통한 사용자 경험의 만족도를 높이는 것이 목표입니다
-* `디자인 시스템`과 `TDD` 등을 통해 효율적이고 안정적인 개발을 지향합니다
 
 <!-- Body -->
 
@@ -24,12 +23,3 @@
 **🛠️ Infra and Tools**
 
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white) ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white) 
-
-### 포트폴리오
-
-
-| 👀 프로젝트명  | 맡은 역할  | GitHub 주소  | 스크린샷  |
-|---|---|---|---|
-| 🍭 화이트데이 ~  | 프론트엔드  | -  | -  |
-| 💡 적당히 신기술 반영된 것  | 프론트엔드  | -  |  - |
-| 👒 무난한 사이트 프로젝트  | 프론트엔드  | -  | -  |
